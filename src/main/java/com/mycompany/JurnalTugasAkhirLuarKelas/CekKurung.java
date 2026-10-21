@@ -1,4 +1,4 @@
-package com.mycompany.pranala;
+package com.mycompany.JurnalTugasAkhirLuarKelas;
 
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
